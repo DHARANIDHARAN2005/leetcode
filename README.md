@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/DHARANIDHARAN2005/leetcode/tree/master/0242-valid-anagram) |
+| [1954-replace-all-digits-with-characters](https://github.com/DHARANIDHARAN2005/leetcode/tree/master/1954-replace-all-digits-with-characters) |
 ## Sorting
 |  |
 | ------- |
