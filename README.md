@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/DHARANIDHARAN2005/leetcode/tree/master/0724-find-pivot-index) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/DHARANIDHARAN2005/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -39,4 +40,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DHARANIDHARAN2005/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Binary Search
+|  |
+| ------- |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/DHARANIDHARAN2005/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 <!---LeetCode Topics End-->
